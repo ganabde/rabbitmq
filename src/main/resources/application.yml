@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: spring-rabbitmq
+  rabbitmq:
+    host: ubuntu-ngrok.ynhanshang.com
+    port: 5672
+    username: admin
+    password: admin
+    virtual-host: /
